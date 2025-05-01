@@ -1,6 +1,6 @@
 # 🏠 Airbnb Clone
 
-![Airbnb Clone Banner](https://user-images.githubusercontent.com/12345678/airbnb-clone-banner.png)
+![Airbnb Clone Banner](image.pngimage.png)
 
 A full-stack Airbnb clone with data scraping capabilities, robust REST API backend, and a modern React frontend.
 
@@ -13,7 +13,7 @@ A full-stack Airbnb clone with data scraping capabilities, robust REST API backe
 - **🤖 Data Scraper**: Automated Airbnb data scraping functionality
 - **🔄 RESTful API**: Well-documented backend endpoints
 
-![Screenshot of Search Page](https://user-images.githubusercontent.com/12345678/airbnb-search-page.png)
+![Screenshot of Search Page](image.png)
 
 ## 🛠️ Tech Stack
 
