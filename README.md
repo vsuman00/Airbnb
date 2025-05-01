@@ -1,6 +1,6 @@
 # 🏠 Airbnb Clone
 
-![Airbnb Clone Banner](assect\Home.png)
+![Airbnb Clone Banner](./assets/Home.png)
 
 A full-stack Airbnb clone with data scraping capabilities, robust REST API backend, and a modern React frontend.
 
@@ -13,7 +13,7 @@ A full-stack Airbnb clone with data scraping capabilities, robust REST API backe
 - **🤖 Data Scraper**: Automated Airbnb data scraping functionality
 - **🔄 RESTful API**: Well-documented backend endpoints
 
-![Screenshot of Search Page](assect\Search.png)
+![Screenshot of Search Page](./assets/Search.png)
 
 ## 🛠️ Tech Stack
 
@@ -111,15 +111,15 @@ python run_spider.py --location "New York" --checkin "2025-05-01" --checkout "20
 
 ### Home Page
 
-![Home Page](/assect/Home.png)
+![Home Page](./assets/Home.png)
 
 ### Listing Details
 
-![Listing Details](/assect/Listing.png)
+![Listing Details](./assets/Listing.png)
 
 ### Search Results
 
-![Search Results](https://user-images.githubusercontent.com/12345678/airbnb-search.png)
+![Search Results](./assets/Search.png)
 
 ## 📝 API Documentation
 
