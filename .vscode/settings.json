@@ -3,6 +3,7 @@
     "authtoken",
     "checkin",
     "corsheaders",
+    "createsuperuser",
     "doesn",
     "dotenv",
     "fvpgi",
@@ -11,6 +12,9 @@
     "muscache",
     "puddb",
     "Royalerubel",
-    "superhost"
+    "runserver",
+    "Scrapy",
+    "superhost",
+    "venv"
   ]
 }
