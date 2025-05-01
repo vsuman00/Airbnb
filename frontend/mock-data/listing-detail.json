@@ -1,0 +1,221 @@
+{
+  "id": 3,
+  "title": "Cozy Mountain Cabin with Hot Tub",
+  "location": "Aspen",
+  "address": "456 Pine Road, Aspen, CO 81611",
+  "price_per_night": 275,
+  "currency": "USD",
+  "total_price": 825,
+  "ratings": 4.88,
+  "reviews_count": 94,
+  "description": "Charming log cabin nestled in the mountains with a hot tub on the deck. Enjoy beautiful forest views and easy access to hiking trails. Perfect for a romantic retreat or small family vacation.\n\nThis authentic cabin features an open floor plan with vaulted ceilings and large windows that showcase the surrounding pine forest. The main living area includes a stone fireplace, comfortable seating, and a fully equipped kitchen with modern appliances.\n\nThe master bedroom has a king-size bed with premium linens, while the second bedroom features two twin beds. Both bathrooms are recently renovated with heated floors and rainfall showers.\n\nOutdoor amenities include a spacious deck with a hot tub, BBQ grill, and seating area perfect for watching the sunset over the mountains. In winter, you're just a 10-minute drive from the ski slopes, and in summer, numerous hiking trails start right from the property.",
+  "property_type": "Cabin",
+  "host": {
+    "id": 103,
+    "name": "Emma",
+    "superhost": false,
+    "response_rate": 95,
+    "response_time": "within an hour",
+    "profile_pic": "https://randomuser.me/api/portraits/women/28.jpg",
+    "joined_date": "January 2019",
+    "total_listings": 3,
+    "bio": "Hi! I'm Emma, an outdoor enthusiast and photographer who loves sharing my favorite mountain retreats with travelers. I've lived in Colorado for over 10 years and know all the best local spots."
+  },
+  "max_guests": 4,
+  "bedrooms": 2,
+  "beds": 2,
+  "bathrooms": 1.5,
+  "images": [
+    {
+      "id": 3001,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/0da70267-d9da-4efb-9123-2714b651c9cd.jpeg",
+      "is_primary": true,
+      "caption": "Exterior view of the cabin surrounded by pine trees"
+    },
+    {
+      "id": 3002,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/70903864-5cac-4cc5-b5b0-74aedc0217af.jpeg",
+      "is_primary": false,
+      "caption": "Cozy living room with stone fireplace"
+    },
+    {
+      "id": 3003,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/b7c698ee-29a2-4498-b2ed-34aafdbc76d9.jpeg",
+      "is_primary": false,
+      "caption": "Master bedroom with king bed and mountain views"
+    },
+    {
+      "id": 3004,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/5affeb5c-ba09-4e0a-9848-546469efc3db.jpeg",
+      "is_primary": false,
+      "caption": "Modern kitchen with all amenities"
+    },
+    {
+      "id": 3005,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/1f14e24b-f599-4edb-9a3a-65fe02cbb340.jpeg",
+      "is_primary": false,
+      "caption": "Hot tub on the deck with forest views"
+    },
+    {
+      "id": 3006,
+      "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/d98b0565-928f-4d1b-92fd-c5c244e1ebcc.jpeg",
+      "is_primary": false,
+      "caption": "Second bedroom with twin beds"
+    }
+  ],
+  "amenities": [
+    {
+      "id": 1,
+      "name": "Wifi",
+      "category": "Basic"
+    },
+    {
+      "id": 2,
+      "name": "Kitchen",
+      "category": "Basic"
+    },
+    {
+      "id": 9,
+      "name": "Hot tub",
+      "category": "Featured"
+    },
+    {
+      "id": 10,
+      "name": "Fireplace",
+      "category": "Featured"
+    },
+    {
+      "id": 11,
+      "name": "Mountain view",
+      "category": "Scenic"
+    },
+    {
+      "id": 12,
+      "name": "Hiking trails nearby",
+      "category": "Location"
+    },
+    {
+      "id": 22,
+      "name": "Free parking on premises",
+      "category": "Basic"
+    },
+    {
+      "id": 23,
+      "name": "Heating",
+      "category": "Basic"
+    },
+    {
+      "id": 24,
+      "name": "Washer & dryer",
+      "category": "Basic"
+    },
+    {
+      "id": 25,
+      "name": "Smoke alarm",
+      "category": "Safety"
+    },
+    {
+      "id": 26,
+      "name": "Carbon monoxide alarm",
+      "category": "Safety"
+    },
+    {
+      "id": 27,
+      "name": "First aid kit",
+      "category": "Safety"
+    },
+    {
+      "id": 28,
+      "name": "BBQ grill",
+      "category": "Outdoor"
+    },
+    {
+      "id": 29,
+      "name": "Deck/Patio",
+      "category": "Outdoor"
+    },
+    {
+      "id": 30,
+      "name": "TV with Netflix",
+      "category": "Entertainment"
+    }
+  ],
+  "reviews": [
+    {
+      "id": 301,
+      "user": {
+        "id": 1001,
+        "name": "John",
+        "profile_pic": "https://randomuser.me/api/portraits/men/45.jpg"
+      },
+      "rating": 5,
+      "date": "2023-05-10",
+      "comment": "Absolutely stunning cabin! The hot tub was perfect after a day of hiking, and we loved the fireplace for cozy evenings. Emma was very responsive and provided great local recommendations."
+    },
+    {
+      "id": 302,
+      "user": {
+        "id": 1002,
+        "name": "Sarah",
+        "profile_pic": "https://randomuser.me/api/portraits/women/22.jpg"
+      },
+      "rating": 4,
+      "date": "2023-04-18",
+      "comment": "Beautiful location and very comfortable cabin. We enjoyed our stay immensely. Only minor issue was that the wifi was a bit spotty, but that's to be expected in the mountains."
+    },
+    {
+      "id": 303,
+      "user": {
+        "id": 1003,
+        "name": "Michael",
+        "profile_pic": "https://randomuser.me/api/portraits/men/67.jpg"
+      },
+      "rating": 5,
+      "date": "2023-03-25",
+      "comment": "Perfect weekend getaway! The cabin was exactly as pictured, very clean, and had everything we needed. The hot tub under the stars was magical."
+    }
+  ],
+  "location_details": {
+    "coordinates": {
+      "latitude": 39.1911,
+      "longitude": -106.8175
+    },
+    "getting_around": "A car is recommended as public transportation is limited in this area. Most attractions are within a 15-minute drive.",
+    "nearby_attractions": [
+      "Aspen Mountain Ski Resort (10 min drive)",
+      "Maroon Bells Scenic Area (25 min drive)",
+      "Independence Pass (35 min drive)",
+      "Downtown Aspen shops and restaurants (12 min drive)"
+    ]
+  },
+  "house_rules": {
+    "check_in": "4:00 PM - 10:00 PM",
+    "check_out": "11:00 AM",
+    "pets_allowed": false,
+    "smoking_allowed": false,
+    "parties_allowed": false,
+    "additional_rules": [
+      "Please remove shoes in the cabin",
+      "Quiet hours from 10 PM - 8 AM",
+      "No more than 4 guests at any time"
+    ]
+  },
+  "availability": {
+    "min_nights": 2,
+    "max_nights": 14,
+    "unavailable_dates": [
+      "2023-12-23",
+      "2023-12-24",
+      "2023-12-25",
+      "2023-12-26",
+      "2023-12-27",
+      "2023-12-28",
+      "2023-12-29",
+      "2023-12-30",
+      "2023-12-31",
+      "2024-01-01"
+    ]
+  },
+  "created_at": "2023-03-25T11:20:00Z",
+  "updated_at": "2023-06-15T14:10:00Z"
+}

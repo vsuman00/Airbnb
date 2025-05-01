@@ -1,0 +1,393 @@
+{
+  "count": 12,
+  "next": "http://localhost:8000/api/listings/?page=2",
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "title": "Modern Downtown Loft with City Views",
+      "location": "New York",
+      "address": "123 Broadway Ave, New York, NY 10001",
+      "price_per_night": 189.99,
+      "currency": "USD",
+      "total_price": 569.97,
+      "ratings": 4.85,
+      "reviews_count": 127,
+      "description": "Enjoy this beautiful loft in the heart of downtown with floor-to-ceiling windows offering stunning city views. Perfect for couples or business travelers.",
+      "property_type": "Apartment",
+      "host": {
+        "id": 101,
+        "name": "Sarah",
+        "superhost": true,
+        "response_rate": 98,
+        "profile_pic": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      "max_guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "bathrooms": 1,
+      "images": [
+        {
+          "id": 1001,
+          "image_url": "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg",
+          "is_primary": true
+        },
+        {
+          "id": 1002,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-46677438/original/7539d689-f750-4c76-936c-8a81320d6caa.jpeg",
+          "is_primary": false
+        },
+        {
+          "id": 1003,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-46677438/original/872e2fcf-6cc2-45ab-a65f-4b75d0c62543.jpeg",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 2,
+          "name": "Kitchen"
+        },
+        {
+          "id": 3,
+          "name": "Air conditioning"
+        },
+        {
+          "id": 4,
+          "name": "Washer"
+        }
+      ],
+      "created_at": "2023-05-15T10:30:00Z",
+      "updated_at": "2023-06-20T12:15:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Beachfront Villa with Private Pool",
+      "location": "Miami",
+      "address": "789 Ocean Drive, Miami Beach, FL 33139",
+      "price_per_night": 450,
+      "currency": "USD",
+      "total_price": 1350,
+      "ratings": 4.92,
+      "reviews_count": 86,
+      "description": "Stunning beachfront villa with direct access to the ocean. Features a private pool, spacious patio, and breathtaking views. Perfect for a luxury getaway.",
+      "property_type": "Villa",
+      "host": {
+        "id": 102,
+        "name": "Michael",
+        "superhost": true,
+        "response_rate": 100,
+        "profile_pic": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      "max_guests": 8,
+      "bedrooms": 4,
+      "beds": 5,
+      "bathrooms": 3.5,
+      "images": [
+        {
+          "id": 2001,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-26117817/original/9da40e3c-5846-4359-b367-b3c94394dd2c.jpeg",
+          "is_primary": true
+        },
+        {
+          "id": 2002,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-26117817/original/9da40e3c-5846-4359-b367-b3c94394dd2c.jpeg",
+          "is_primary": false
+        },
+        {
+          "id": 2003,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-26117817/original/411c07b5-04a9-4a53-8c98-58863457eee7.jpeg",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 5,
+          "name": "Pool"
+        },
+        {
+          "id": 6,
+          "name": "Beach access"
+        },
+        {
+          "id": 7,
+          "name": "Free parking"
+        },
+        {
+          "id": 8,
+          "name": "BBQ grill"
+        }
+      ],
+      "created_at": "2023-04-10T15:45:00Z",
+      "updated_at": "2023-06-18T09:30:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Cozy Mountain Cabin with Hot Tub",
+      "location": "Aspen",
+      "address": "456 Pine Road, Aspen, CO 81611",
+      "price_per_night": 275,
+      "currency": "USD",
+      "total_price": 825,
+      "ratings": 4.88,
+      "reviews_count": 94,
+      "description": "Charming log cabin nestled in the mountains with a hot tub on the deck. Enjoy beautiful forest views and easy access to hiking trails. Perfect for a romantic retreat or small family vacation.",
+      "property_type": "Cabin",
+      "host": {
+        "id": 103,
+        "name": "Emma",
+        "superhost": false,
+        "response_rate": 95,
+        "profile_pic": "https://randomuser.me/api/portraits/women/28.jpg"
+      },
+      "max_guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "bathrooms": 1.5,
+      "images": [
+        {
+          "id": 3001,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/0da70267-d9da-4efb-9123-2714b651c9cd.jpeg",
+          "is_primary": true
+        },
+        {
+          "id": 3002,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/70903864-5cac-4cc5-b5b0-74aedc0217af.jpeg",
+          "is_primary": false
+        },
+        {
+          "id": 3003,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-51809333/original/b7c698ee-29a2-4498-b2ed-34aafdbc76d9.jpeg",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 9,
+          "name": "Hot tub"
+        },
+        {
+          "id": 10,
+          "name": "Fireplace"
+        },
+        {
+          "id": 11,
+          "name": "Mountain view"
+        },
+        {
+          "id": 12,
+          "name": "Hiking trails nearby"
+        }
+      ],
+      "created_at": "2023-03-25T11:20:00Z",
+      "updated_at": "2023-06-15T14:10:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Historic Brownstone in Brooklyn",
+      "location": "New York",
+      "address": "567 Park Place, Brooklyn, NY 11238",
+      "price_per_night": 225,
+      "currency": "USD",
+      "total_price": 675,
+      "ratings": 4.77,
+      "reviews_count": 112,
+      "description": "Classic Brooklyn brownstone with original details and modern amenities. Walking distance to museums, restaurants, and subway stations. Experience authentic New York living.",
+      "property_type": "House",
+      "host": {
+        "id": 104,
+        "name": "David",
+        "superhost": true,
+        "response_rate": 97,
+        "profile_pic": "https://randomuser.me/api/portraits/men/52.jpg"
+      },
+      "max_guests": 6,
+      "bedrooms": 3,
+      "beds": 4,
+      "bathrooms": 2,
+      "images": [
+        {
+          "id": 4001,
+          "image_url": "https://a0.muscache.com/im/pictures/65125756/40160f57_original.jpg",
+          "is_primary": true
+        },
+        {
+          "id": 4002,
+          "image_url": "https://a0.muscache.com/im/pictures/65125733/08c427be_original.jpg",
+          "is_primary": false
+        },
+        {
+          "id": 4003,
+          "image_url": "https://a0.muscache.com/im/pictures/65125785/51db67f1_original.jpg",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 2,
+          "name": "Kitchen"
+        },
+        {
+          "id": 3,
+          "name": "Air conditioning"
+        },
+        {
+          "id": 13,
+          "name": "Subway access"
+        },
+        {
+          "id": 14,
+          "name": "Backyard"
+        }
+      ],
+      "created_at": "2023-02-18T09:15:00Z",
+      "updated_at": "2023-06-12T16:45:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Desert Oasis with Panoramic Views",
+      "location": "Joshua Tree",
+      "address": "1234 Desert Way, Joshua Tree, CA 92252",
+      "price_per_night": 195,
+      "currency": "USD",
+      "total_price": 585,
+      "ratings": 4.95,
+      "reviews_count": 75,
+      "description": "Modern desert retreat with large windows showcasing panoramic views of Joshua Tree National Park. Unique architecture and stylish interiors. Perfect for stargazing and disconnecting.",
+      "property_type": "House",
+      "host": {
+        "id": 105,
+        "name": "Jessica",
+        "superhost": true,
+        "response_rate": 99,
+        "profile_pic": "https://randomuser.me/api/portraits/women/13.jpg"
+      },
+      "max_guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "bathrooms": 1.5,
+      "images": [
+        {
+          "id": 5001,
+          "image_url": "https://a0.muscache.com/im/pictures/monet/Luxury-53719772/original/c9a0efc7-71e1-4d7e-ac34-ad47b41ac10b",
+          "is_primary": true
+        },
+        {
+          "id": 5002,
+          "image_url": "https://a0.muscache.com/im/pictures/monet/Luxury-53719772/original/52d7b9c6-321c-405c-94f6-9c7189fdf166",
+          "is_primary": false
+        },
+        {
+          "id": 5003,
+          "image_url": "https://a0.muscache.com/im/pictures/monet/Luxury-53719772/original/f61712bd-553e-41f8-8f49-3917d1bb8782",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 15,
+          "name": "Stargazing"
+        },
+        {
+          "id": 16,
+          "name": "Outdoor shower"
+        },
+        {
+          "id": 17,
+          "name": "Hammock"
+        },
+        {
+          "id": 3,
+          "name": "Air conditioning"
+        }
+      ],
+      "created_at": "2023-05-01T08:30:00Z",
+      "updated_at": "2023-06-19T10:25:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Luxury Penthouse in Downtown",
+      "location": "Chicago",
+      "address": "789 Michigan Ave, Chicago, IL 60611",
+      "price_per_night": 350,
+      "currency": "USD",
+      "total_price": 1050,
+      "ratings": 4.91,
+      "reviews_count": 103,
+      "description": "Spectacular penthouse with floor-to-ceiling windows and private terrace offering panoramic views of the Chicago skyline. Featuring high-end furnishings and a gourmet kitchen.",
+      "property_type": "Apartment",
+      "host": {
+        "id": 106,
+        "name": "Robert",
+        "superhost": true,
+        "response_rate": 98,
+        "profile_pic": "https://randomuser.me/api/portraits/men/74.jpg"
+      },
+      "max_guests": 4,
+      "bedrooms": 2,
+      "beds": 2,
+      "bathrooms": 2,
+      "images": [
+        {
+          "id": 6001,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-743662148474864556/original/97f6b48a-d974-4ee6-b363-6bba45879cc8.jpeg",
+          "is_primary": true
+        },
+        {
+          "id": 6002,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-743662148474864556/original/a68ec823-d7c6-416c-b5a0-18209b2a50d0.jpeg",
+          "is_primary": false
+        },
+        {
+          "id": 6003,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-743662148474864556/original/e2d2e84a-f804-4c27-9e1c-a1a612a2b2cb.jpeg",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 18,
+          "name": "Gym"
+        },
+        {
+          "id": 19,
+          "name": "Doorman"
+        },
+        {
+          "id": 20,
+          "name": "Rooftop access"
+        },
+        {
+          "id": 21,
+          "name": "Smart home features"
+        }
+      ],
+      "created_at": "2023-04-15T14:20:00Z",
+      "updated_at": "2023-06-17T11:05:00Z"
+    }
+  ]
+}

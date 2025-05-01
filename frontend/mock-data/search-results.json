@@ -1,0 +1,273 @@
+{
+  "query_params": {
+    "location": "New York",
+    "checkin": "2023-07-15",
+    "checkout": "2023-07-20",
+    "guests": "2",
+    "min_price": "100",
+    "max_price": "300",
+    "property_type": "Apartment",
+    "min_rating": "4.5"
+  },
+  "count": 4,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "id": 1,
+      "title": "Modern Downtown Loft with City Views",
+      "location": "New York",
+      "address": "123 Broadway Ave, New York, NY 10001",
+      "price_per_night": 189.99,
+      "currency": "USD",
+      "total_price": 949.95,
+      "ratings": 4.85,
+      "reviews_count": 127,
+      "description": "Enjoy this beautiful loft in the heart of downtown with floor-to-ceiling windows offering stunning city views. Perfect for couples or business travelers.",
+      "property_type": "Apartment",
+      "host": {
+        "id": 101,
+        "name": "Sarah",
+        "superhost": true,
+        "response_rate": 98,
+        "profile_pic": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      "max_guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "bathrooms": 1,
+      "images": [
+        {
+          "id": 1001,
+          "image_url": "https://a0.muscache.com/im/pictures/e25a9b25-fa98-4160-bfd1-039287bf38b6.jpg",
+          "is_primary": true
+        },
+        {
+          "id": 1002,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-46677438/original/7539d689-f750-4c76-936c-8a81320d6caa.jpeg",
+          "is_primary": false
+        },
+        {
+          "id": 1003,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-46677438/original/872e2fcf-6cc2-45ab-a65f-4b75d0c62543.jpeg",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 2,
+          "name": "Kitchen"
+        },
+        {
+          "id": 3,
+          "name": "Air conditioning"
+        },
+        {
+          "id": 4,
+          "name": "Washer"
+        }
+      ],
+      "created_at": "2023-05-15T10:30:00Z",
+      "updated_at": "2023-06-20T12:15:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Historic Brownstone in Brooklyn",
+      "location": "New York",
+      "address": "567 Park Place, Brooklyn, NY 11238",
+      "price_per_night": 225,
+      "currency": "USD",
+      "total_price": 1125,
+      "ratings": 4.77,
+      "reviews_count": 112,
+      "description": "Classic Brooklyn brownstone with original details and modern amenities. Walking distance to museums, restaurants, and subway stations. Experience authentic New York living.",
+      "property_type": "Apartment",
+      "host": {
+        "id": 104,
+        "name": "David",
+        "superhost": true,
+        "response_rate": 97,
+        "profile_pic": "https://randomuser.me/api/portraits/men/52.jpg"
+      },
+      "max_guests": 3,
+      "bedrooms": 1,
+      "beds": 2,
+      "bathrooms": 1,
+      "images": [
+        {
+          "id": 4001,
+          "image_url": "https://a0.muscache.com/im/pictures/65125756/40160f57_original.jpg",
+          "is_primary": true
+        },
+        {
+          "id": 4002,
+          "image_url": "https://a0.muscache.com/im/pictures/65125733/08c427be_original.jpg",
+          "is_primary": false
+        },
+        {
+          "id": 4003,
+          "image_url": "https://a0.muscache.com/im/pictures/65125785/51db67f1_original.jpg",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 2,
+          "name": "Kitchen"
+        },
+        {
+          "id": 3,
+          "name": "Air conditioning"
+        },
+        {
+          "id": 13,
+          "name": "Subway access"
+        },
+        {
+          "id": 14,
+          "name": "Backyard"
+        }
+      ],
+      "created_at": "2023-02-18T09:15:00Z",
+      "updated_at": "2023-06-12T16:45:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Bright Studio with Empire State Views",
+      "location": "New York",
+      "address": "88 Murray Hill, New York, NY 10016",
+      "price_per_night": 170,
+      "currency": "USD",
+      "total_price": 850,
+      "ratings": 4.82,
+      "reviews_count": 64,
+      "description": "Beautiful studio apartment with large windows and a view of the Empire State Building. Perfect location in Murray Hill with easy access to midtown attractions.",
+      "property_type": "Apartment",
+      "host": {
+        "id": 107,
+        "name": "Jennifer",
+        "superhost": false,
+        "response_rate": 92,
+        "profile_pic": "https://randomuser.me/api/portraits/women/56.jpg"
+      },
+      "max_guests": 2,
+      "bedrooms": 0,
+      "beds": 1,
+      "bathrooms": 1,
+      "images": [
+        {
+          "id": 7001,
+          "image_url": "https://a0.muscache.com/im/pictures/monet/Select-34444025/original/d815bba9-ce5c-4a79-ae94-6a48225ea1b8",
+          "is_primary": true
+        },
+        {
+          "id": 7002,
+          "image_url": "https://a0.muscache.com/im/pictures/monet/Select-34444025/original/225a38d8-70e4-4964-b92e-000b0aeb0bd7",
+          "is_primary": false
+        },
+        {
+          "id": 7003,
+          "image_url": "https://a0.muscache.com/im/pictures/monet/Select-34444025/original/a23a50be-d6c1-4967-a634-5530fe5a3155",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 2,
+          "name": "Kitchen"
+        },
+        {
+          "id": 3,
+          "name": "Air conditioning"
+        },
+        {
+          "id": 31,
+          "name": "Elevator"
+        },
+        {
+          "id": 32,
+          "name": "City view"
+        }
+      ],
+      "created_at": "2023-05-20T14:30:00Z",
+      "updated_at": "2023-06-10T11:20:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Stylish SoHo Loft with Rooftop Access",
+      "location": "New York",
+      "address": "123 Greene St, New York, NY 10012",
+      "price_per_night": 295,
+      "currency": "USD",
+      "total_price": 1475,
+      "ratings": 4.95,
+      "reviews_count": 42,
+      "description": "Chic loft in the heart of SoHo with industrial touches and designer furnishings. Building features a shared rooftop with amazing views of downtown Manhattan.",
+      "property_type": "Apartment",
+      "host": {
+        "id": 110,
+        "name": "Alex",
+        "superhost": true,
+        "response_rate": 100,
+        "profile_pic": "https://randomuser.me/api/portraits/men/22.jpg"
+      },
+      "max_guests": 2,
+      "bedrooms": 1,
+      "beds": 1,
+      "bathrooms": 1,
+      "images": [
+        {
+          "id": 10001,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-40792948/original/f603aac0-7dbf-4874-b301-3e0bbd4fae5d.jpeg",
+          "is_primary": true
+        },
+        {
+          "id": 10002,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-40792948/original/ca228335-3501-4fa7-a7d6-03cd0c05abf9.jpeg",
+          "is_primary": false
+        },
+        {
+          "id": 10003,
+          "image_url": "https://a0.muscache.com/im/pictures/miso/Hosting-40792948/original/b0531cb5-9166-43b3-9bb9-d06723978195.jpeg",
+          "is_primary": false
+        }
+      ],
+      "amenities": [
+        {
+          "id": 1,
+          "name": "Wifi"
+        },
+        {
+          "id": 2,
+          "name": "Kitchen"
+        },
+        {
+          "id": 3,
+          "name": "Air conditioning"
+        },
+        {
+          "id": 20,
+          "name": "Rooftop access"
+        },
+        {
+          "id": 33,
+          "name": "Designer furniture"
+        }
+      ],
+      "created_at": "2023-01-30T16:40:00Z",
+      "updated_at": "2023-06-15T09:35:00Z"
+    }
+  ]
+}
